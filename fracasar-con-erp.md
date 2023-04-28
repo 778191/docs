@@ -443,6 +443,10 @@ PHFE paga cerca de 1M$ para descubrir 2 años después que no ha comprado un ERP
 - **ERP A y ERP B en empresas 3 y 4 (nombres ficticios)**:
 [ERP implementation at SMEs: analysis of five Canadian cases](http://www.emeraldinsight.com/doi/abs/10.1108/01443570910925343) (Fuente : Eduardo Navarro)
 
+* [American LaFrance – Why Do Projects Fail](https://calleam.com/WTPF/?p=3134)
+  * **Fuente**: Víctor García
+  * **Descripción**: American LaFrance intentó implementar un nuevo sistema ERP basado en SAP para administrar su cadena de suministro y operaciones de producción. Sin embargo, la implementación generó problemas significativos, incluidos retrasos en la producción y problemas de control de calidad, lo que provocó una pérdida financiera y finalmente la quiebra de la empresa.
+
 - **Oracle y Philadephia (EE.UU)**:
 [Philly flushes Oracle out of water bill project](http://www.computerworld.com/article/2549303/government-it/philly-flushes-oracle-out-of-water-bill-project.html) siendo resuelto el problema en 2008 con un nuevo proveedor y [Philadelphia's 'Ocean' Finally in Full Flow](http://www.computerworld.com/article/2551756/government-it/philadelphia-s--ocean--finally-in-full-flow.html) (Fuente: Juan Vela)
 
@@ -797,6 +801,11 @@ Un sistema de 178M$ produce tras su despliegue milles de facturas de incorrectas
 PC Connection experimentó una falla en su sistema ERP que se relacionó con una mala adaptación del proveedor del sistema.
 [Causas de fallas en la implementación de ERP y 11 ejemplos de alto perfil](https://softwareconnect.com/erp/implementation-failures/) (Fuente: Miguel Beltrán)
 
+* SAP Avon Products Inc. https://www.avon.com/ 2013
+* [Avon's Failed SAP Implementation A Perfect Example Of The Enterprise IT Revolution](https://www.forbes.com/sites/benkepes/2013/12/17/avons-failed-sap-implementation-a-perfect-example-of-enterprise-it-revolution/?sh=697cffe931a6)
+* **fuente**: Víctor García
+* **Descripcion**: La implementación tenía como objetivo mejorar la gestión de la cadena de suministro y el rendimiento de las ventas de la empresa, pero finalmente resultó en importantes interrupciones, pérdidas financieras significativas y una disminución de los representantes de ventas. 
+
 ### 2014
 
 - **Israel Chemical Limited y SAP**:
@@ -946,6 +955,10 @@ Instalación en 2017. Problemas en 2018.
 - **ERP desconocido y [Dogi](http://www.dogi.es/)**:
 [El grupo Dogi de Nextil sufre perdidas en ventas por su nuevo ERP](https://www.modaes.es/empresa/el-dueno-de-dogi-crece-un-167-en-2018-pero-engorda-sus-perdidas-por-la-reestructuracion.html)(Fuente: Alejandro Adell)
 
+*[The UK’s Debenhams: A Cautionary Tale](https://www.rsrresearch.com/research/the-uks-debenhams-a-cautionary-tale)
+* **Fuente**: Víctor García
+* **Descripcion**: Debenhams intentó implementar un nuevo sistema ERP basado en SAP para gestionar su cadena de suministro y operaciones de gestión de inventario. Sin embargo, la implementación generó problemas significativos, incluidos recuentos de inventario inexactos y una disminución de las ventas, lo que provocó una pérdida financiera y una disminución en el precio de sus acciones.
+
 - **Oracle y Worth & Company**:
 [Oracle sued for $4.5m after ERP system delivery date 'moved from 2015 to 2016, then 2017, then... er, never'](https://www.theregister.co.uk/2019/02/21/biz_sues_oracle/) (Fuente: Íñigo Úriz) [Lessons Learned from the Worth & Company ERP Failure](https://www.panorama-consulting.com/worth-company-erp-failure/) (Fuente: Alejandro Magallón)
 
@@ -1027,6 +1040,12 @@ La inversión de la empresa taiwanesa Nanshan Life Insurance resultó ser el "ma
 
 - **Oracle y Universidad Edinburgh**:
  [University of Edinburgh staff paid late due to Oracle ERP troubles](https://www.theregister.com/2022/11/03/oracle_erp_edinburgh_university/) (Fuente: Alejandro Sanz)
+ 
+ *ERP: SAP  Hertz https://www.hertz.com/rentacar/reservation/ 
+* [How Hertz paid Accenture $32M for a website that never went live](https://www.henricodolfing.com/2019/10/case-study-hertz-accenture-website.html) 
+* **Fuente**: Victor Garcia
+* **Descripcion**: El artículo explica que Hertz había contratado a Accenture para implementar una nueva plataforma digital que agilizaría el proceso de alquiler de automóviles y mejoraría la experiencia del cliente. 
+Sin embargo, el proyecto estuvo plagado de retrasos y problemas técnicos, lo que provocó importantes interrupciones en las operaciones comerciales de Hertz. Hertz finalmente rescindió su contrato con Accenture y presentó una demanda, alegando que la consultora había incumplido su contrato y cometido fraude. 
 
 ## Década de 2020
 
